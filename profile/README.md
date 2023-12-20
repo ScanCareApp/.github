@@ -1,6 +1,8 @@
 # Scancare
 Introducing an innovative application designed to empower skincare users by effortlessly unveiling the true functionalities of every ingredient within their skincare products and verifying product authenticity through an image scanning feature. This revolutionary tool aims to enhance user comprehension, potentially reducing the risk of adverse reactions based on skincare ingredient compatibility.
 
+To explore more about ScanCare, visit our [ScanCare Landing Page](https://landing-page-lxntso327q-et.a.run.app/#about) for additional information.
+
 ## Download Our App
 [Download Scancare App](https://storage.googleapis.com/products_image_scancare/ScanCare.apk)
 
