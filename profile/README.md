@@ -37,16 +37,16 @@ Introducing an innovative application designed to empower skincare users by effo
 
 ### Machine Learning
 - **Tech Stack**: TensorFlow & Keras.
-- **[Train Model Repositories](#)**: Contains trained models for image recognition.
+- **[Train Model Repositories](https://github.com/ScanCareApp/scancare-train-model)**: Contains trained models for image recognition.
 
 ### Cloud Computing
 - **Tech Stack**: FastAPI, Firebase, Node.js, Express.js.
-- **[Authentication Repositories](#)**: Implements secure authentication featuresand edit profile.
-- **[ML API Repositories](#)**: Handles ML model API and fetches details from the database.
+- **[Authentication Repositories](https://github.com/ScanCareApp/auth-api)**: Implements secure authentication featuresand edit profile.
+- **[ML API Repositories](https://github.com/ScanCareApp/ml-api)**: Handles ML model API and fetches details from the database.
 
 ### Mobile Development
 - **Tech Stack**: Android SDK, Kotlin, Retrofit.
-- **[App Repositories](#)**
+- **[App Repositories](https://github.com/ScanCareApp/ScanCare)**
 
 ---
 
