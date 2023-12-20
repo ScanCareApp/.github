@@ -39,7 +39,7 @@ To explore more about ScanCare, visit our [ScanCare Landing Page](https://landin
 
 ### Machine Learning
 - **Tech Stack**: TensorFlow & Keras.
-- **[Train Model Repositories](https://github.com/ScanCareApp/scancare-machine-learning-model.git)**: Contains trained models for image recognition.
+- **[Train Model Repositories](https://github.com/ScanCareApp/scancare-machine-learning-model)**: Contains trained models for image recognition.
 
 ### Cloud Computing
 - **Tech Stack**: FastAPI, Firebase, Node.js, Express.js.
