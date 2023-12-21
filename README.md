@@ -1,8 +1,11 @@
 # Scancare
+![App Preview](https://storage.googleapis.com/products_image_scancare/App%20Preview.png)
 Introducing an innovative application designed to empower skincare users by effortlessly unveiling the true functionalities of every ingredient within their skincare products and verifying product authenticity through an image scanning feature. This revolutionary tool aims to enhance user comprehension, potentially reducing the risk of adverse reactions based on skincare ingredient compatibility.
 
+To explore more about ScanCare, visit our [ScanCare Landing Page](https://landing-page-lxntso327q-et.a.run.app/) for additional information.
+
 ## Download Our App
-[Download Scancare App](#) (Coming Soon!)
+[Download Scancare App](https://storage.googleapis.com/products_image_scancare/ScanCare.apk)
 
 ## Feature 
 
@@ -37,16 +40,16 @@ Introducing an innovative application designed to empower skincare users by effo
 
 ### Machine Learning
 - **Tech Stack**: TensorFlow & Keras.
-- **[Train Model Repositories](#)**: Contains trained models for image recognition.
+- **[Train Model Repositories](https://github.com/ScanCareApp/scancare-machine-learning-model)**: Contains trained models for image recognition.
 
 ### Cloud Computing
 - **Tech Stack**: FastAPI, Firebase, Node.js, Express.js.
-- **[Authentication Repositories](#)**: Implements secure authentication featuresand edit profile.
-- **[ML API Repositories](#)**: Handles ML model API and fetches details from the database.
+- **[Authentication Repositories](https://github.com/ScanCareApp/auth-api)**: Implements secure authentication featuresand edit profile.
+- **[ML API Repositories](https://github.com/ScanCareApp/ml-api)**: Handles ML model API and fetches details from the database.
 
 ### Mobile Development
 - **Tech Stack**: Android SDK, Kotlin, Retrofit.
-- **[App Repositories](#)**
+- **[App Repositories](https://github.com/ScanCareApp/ScanCare)**
 
 ---
 
